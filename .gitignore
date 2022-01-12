@@ -1,0 +1,4 @@
+data/
+.ipynb_checkpoints/
+scrap_code.py
+dask-worker-space/
